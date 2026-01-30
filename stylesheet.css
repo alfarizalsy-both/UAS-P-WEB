@@ -63,7 +63,7 @@
 }
 
 .main {
-  background-image: url(IMG/BG.jpeg);
+  /* background: url(IMG/BG.jpeg); */
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -158,5 +158,4 @@ height: 100%;
 .btn-redeem:hover {
   background-color: #0b5ed7;
 }
-
 
